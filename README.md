@@ -42,7 +42,7 @@ A basic rating-based recommendation system suggests movies similar to user-selec
 ---
 
 ## 📸 Screenshots
-(Add screenshots after deployment)
+(https://github.com/minalsadiq/movies-dataset/blob/main/Screenshot%202026-05-24%20124203.png)
 
 ---
 
