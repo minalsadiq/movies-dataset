@@ -9,7 +9,7 @@ Transforming raw movie data into interactive insights through visual analytics.
 
 ### 🎬 Movies dataset template
 
-| File | Link |
+| File | URL |
 |------|-------------|
 | Kaggel [The Movie Database TMDB 5000 Movie Dataset]| https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata. |
 | Streamlit app showing movie Dashboard | [https://movies-dataset-template.streamlit.app/(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movies-dataset-template.streamlit.app/) |
